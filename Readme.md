@@ -20,10 +20,22 @@ opencv-python
 tensorflow
 
 ```
+# Installing All packages at once
+
+```code
+pip install -r requirements.txt
+```
 
 # Extract the model from trained from the data (archieve.zip)
 
 --> Go to google colab 
+
 --> Run the project 
+
 --> download the Vgg19_model_02.weights.h5
+
 --> Link [download here](https://drive.google.com/file/d/1VnLUO5nKHNDg9dxIFf7avMLD3j1ySmFu/view?usp=sharing)
+
+
+
+
